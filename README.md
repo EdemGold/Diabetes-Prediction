@@ -2,7 +2,7 @@
 This is a machine Learning mode which tries to determine if a person has a heart disease or not.
 
 ## Data
-The dataset is in comma seperated values (.csv) format and is included in th code.
+The dataset is in comma seperated values (.csv) format and is included in teh code.
 
 ## Packages Used
 The following Packages were used
